@@ -1,0 +1,17 @@
+/* --------------Color Palette------------------------ */
+/* http://www.colourlovers.com/palette/35982/Tank_Ride */
+body{
+    background-color: #EEEEEE;
+}
+
+header{
+    width: 100%;
+    max-height: 120px;
+    min-height: 100px;
+    text-align: center;
+}
+
+h1{
+    font-size: 400%;
+}
+
